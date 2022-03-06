@@ -22,7 +22,7 @@ class Calculator
             d=a-b;
             System.out.println("the sub of two numbers is: "+ d);
         }
-        //multiplication function
+        //multiplication function on local repository
         else if(c==3)
         {
             System.out.println("the mul of two numbers is: "+ a*b);
