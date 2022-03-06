@@ -11,7 +11,7 @@ class Calculator
         b=sc.nextInt();
         System.out.println("enter 1 to add , 2 to sub, 3 to mul,4 to div");
         int c=sc.nextInt();
-        //addition function
+        //addition function on bug123 branch
         if(c==1)
         {
             System.out.println("the sum of two numbers is: "+ a+b);
