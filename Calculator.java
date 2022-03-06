@@ -16,7 +16,7 @@ class Calculator
         {
             System.out.println("the sum of two numbers is: "+ a+b);
         }
-        //subtraction fuction
+        //subtraction fuction on bug456 branch
         else if(c==2)
         {
             d=a-b;
